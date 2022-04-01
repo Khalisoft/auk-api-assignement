@@ -1,4 +1,4 @@
-# express-and-prisma
+# AUK API Assignment
 
 It's a simple example which presents my attempt to work with prisma.
 
